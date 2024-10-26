@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6734572b-69dc-46f2-accf-598d52b55b84" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Index.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Index.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PhoneBook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,19 +38,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.Index.tableTest.executor": "Run",
-    "Gradle.PhoneBook.classword_1.executor": "Run",
-    "Gradle.PhoneBook.executor": "Run",
-    "Gradle.PhoneBook.selectors.executor": "Run",
-    "Gradle.StartSelenium.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Index.tableTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.PhoneBook.classword_1.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.PhoneBook.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.PhoneBook.selectors.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.StartSelenium.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Gradle.PhoneBook.classword_1">
     <configuration name="Index.tableTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
